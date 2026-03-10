@@ -32,7 +32,7 @@ Short-Term External Debt: Crucial for the Greenspan-Guidotti rule (Reserves vs. 
 To hit our project deadlines efficiently, the remaining work is split into two parallel tracks:
 
 Track A: Data Acquisition (Team Member 1)
-Goal: Hunt down and extract the remaining datasets from the IMF/World Bank APIs.
+Goal: Hunt down and extract the remaining datasets from the IMF/World Bank APIs. must be monthly data not annual
 
 Task 1: Adapt the existing "Hunter Scripts" to discover the exact 2025 dimension keys for REER, Domestic Credit, and Short-Term Debt.
 
